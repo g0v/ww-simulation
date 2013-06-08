@@ -1,7 +1,5 @@
 {
-    "data":
-    {
-        "is_public": 0,
-        "type": "tag"
-    }
+    "is_public": 0,
+    "type": "tag",
+    "id": "1234"
 }
