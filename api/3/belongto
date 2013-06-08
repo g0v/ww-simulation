@@ -1,0 +1,16 @@
+{
+    "data":[
+    {
+        "type": "belongto",
+        "from": 65536,
+        "to"  : 128
+        "id"  : 1024
+    },
+    {
+        "type": "belongto",
+        "from": 65536,
+        "to"  : 129
+        "id"  : 1025
+    }
+    ]
+}
