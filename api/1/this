@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "type": "person",
+    "name": "王大明",
+    "events":
+        [
+        {
+            "type": "meeting",
+            "id": 1001,
+            "name": "第一次議會"
+        }
+    ]
+}
