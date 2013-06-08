@@ -1,0 +1,16 @@
+{
+    "data":[
+    {
+        "type": "news",
+        "id": "111",
+        "title": "blah blah news title",
+        "content": "qwewqeqewqeqweqwe"
+    },
+    {
+        "type": "news",
+        "id": 112,
+        "title": "news title2",
+        "content": "asdasdasdasd"
+    }
+    ]
+}
